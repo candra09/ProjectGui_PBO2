@@ -1,4 +1,7 @@
 # ProjectGui_PBO2
+Anggota Kelompok:
+- Candra Wulan Ana R 192410102009
+- Dhia Hayyu Syahirah 192410102008
 
 Judul Project GUI: APLIKASI REKAP NILAI KELAS
 
@@ -14,6 +17,3 @@ Fitur - Fitur Aplikasi:
 6. Update Data Siswa, Dimana guru dapat mengubah data siswa yang telah dimasukkan.
 7. Cari Data Siswa, Dimana guru dapat dengan mudah mencari data siswa berdasarkan Nomor Induk Siswa.
 
-Anggota Kelompok:
-- Candra Wulan Ana R 192410102009
-- Dhia Hayyu Syahirah 192410102008
